@@ -18,9 +18,9 @@
 1. Run this in your bash.
 ```
 # Run this in your terminal
-git clone 'https://github.com/Flexdev45/Shorter.git'
-cd 'Shorter'
-sudo bash shorter.sh'
+git clone 'https://github.com/Flexdev45/Shorter.git';
+cd 'Shorter';
+sudo bash shorter.sh';
 ```
 
 You should see something like this
