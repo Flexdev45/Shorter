@@ -6,8 +6,8 @@
 * *Bash 5.2>Higher*
 
 ***Where does it should work?***
-* ***It should work in any linux system with these requisistes.***
-* ***It's been tested in ubuntu 24.04 and runs perfectly.***
+* ***It should work in any linux system with these requirements.***
+* ***It's been tested in ubuntu 24.04 and it runs perfectly.***
 
 ***Notes for the version 0.1 #***
 * ***It must be executed with superuser privileges, unlike it won't open.***
