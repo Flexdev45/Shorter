@@ -23,6 +23,6 @@ cd 'Shorter';
 sudo bash shorter.sh;
 ```
 
-You should see something like this
-
+2. Then, you should see something like this
+   
 ![Screenshot from 2024-10-29 17-35-31](https://github.com/user-attachments/assets/90390cdb-d897-4e75-bec2-f75c0fb84c28)
