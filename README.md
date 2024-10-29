@@ -1,4 +1,6 @@
 # Shorter Sh V0.1
+***Description: It's simple bash script to shorten urls using the public api "is.gd"***
+
 ***What does it use:***
 * *Curl 8.0>higher*
 * *Bash 5.2>Higher*
@@ -7,7 +9,7 @@
 * ***It should work in any linux system with these requisistes.***
 * ***It's been tested in ubuntu 24.04 and runs perfectly.***
 
-***Notes for version 0.1 #***
+***Notes for the version 0.1 #***
 * ***It must be executed with superuser privileges, unlike it won't open.***
 * ***If you don't have curl in your system, it will download it automatically.***
 * ***It will store your shorten url in a text file.***
