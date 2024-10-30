@@ -25,6 +25,6 @@ cd 'Shorter';
 sudo bash shorter.sh;
 ```
 
-2. Then, you should see something like this
-   
-![Screenshot from 2024-10-29 17-35-31](https://github.com/user-attachments/assets/90390cdb-d897-4e75-bec2-f75c0fb84c28)
+2. Here you have a demonstration
+
+https://github.com/user-attachments/assets/0d92cc3e-d7f3-4486-af33-69110719ec49
