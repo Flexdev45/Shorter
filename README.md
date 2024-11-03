@@ -13,6 +13,7 @@
 
 ***What's new in the version 0.2 #***
 * ***It now allows you to set a customised filename to save your shorten url.***
+* ***Consequently, you now can choose whether to save or not your url.***
 * ***There have been put more conditionals and logical structure, making the script slightly more stable.***
 
 ***Notes for the version 0.1 #***
