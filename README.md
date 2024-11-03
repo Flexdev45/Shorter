@@ -1,4 +1,4 @@
-# Bash Shortener V0.1
+# Bash Shortener V0.2
 ***Description: It's a simple bash script to short urls using the public api "is.gd".***
 
 ***Reason Why: I've made this script only to be executed on linux becuase sometimes we need a such a quick tool to short our urls and don't want to spend a lot of time creating an account on a "url shortener service".***
@@ -10,6 +10,10 @@
 ***Where does it should work?***
 * ***It should work in any linux system.***
 * ***It had been tested in ubuntu 24.04 and it run perfectly.***
+
+***What's new in the version 0.2 #***
+* ***It now allows you to set a customised filename to save your shorten url.***
+* ***There have been put more conditionals and logical structure, making the script slightly stable.***
 
 ***Notes for the version 0.1 #***
 * ***It must be executed with superuser privileges, unlike it will not open.***
