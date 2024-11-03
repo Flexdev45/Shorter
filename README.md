@@ -28,7 +28,3 @@ git clone 'https://github.com/Flexdev45/Shorter.git';
 cd 'Shorter';
 sudo bash shorter.sh;
 ```
-
-2. Here you have a demonstration
-
-https://github.com/user-attachments/assets/0d92cc3e-d7f3-4486-af33-69110719ec49
